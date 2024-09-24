@@ -1,0 +1,12 @@
+com\toorak\tests\GetAPIDemoTest.class
+com\toorak\pages\ProductsPage.class
+com\toorak\utils\PropertiesUtils.class
+com\toorak\utils\ExcelUtils.class
+com\toorak\dataproviders\DataProviderUtils.class
+com\toorak\utils\BaseTest.class
+com\toorak\tests\LoginAddToCartLogoutTest.class
+com\toorak\pages\YourCartPage.class
+com\toorak\utils\AutoConfigs.class
+com\toorak\utils\FileUtils.class
+com\toorak\tests\TextFileDemo.class
+com\toorak\pages\LoginPage.class
